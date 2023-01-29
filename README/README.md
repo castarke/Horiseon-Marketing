@@ -23,9 +23,11 @@ Within this repository you will find the HTML and CSS code to the Horiseon Marke
          -search-engine-optimization.jpg
          -social-media-marketing.jpg
 
-   -index.html
+   -README
 
-   -README.md
+      -README.md
+   
+   -index.html
 
  
  #Usage
