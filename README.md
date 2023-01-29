@@ -3,44 +3,29 @@ This repository is for the Horiseon Marketing Challenge 1.
 
 #Description
 
-Within this repository you will find the HTML and CSS code to the Horiseon Marketing site, with updated changes to make it more accessable and optimized for search engines. Throughout the HTML and CSS, I learned how different HTML and CSS tags interact with each other and can affect the looks of the site.
+Within this repository you will find the HTML and CSS code to the Horiseon Marketing site, with updated changes to make it more accessable and optimized for search engines. Throughout the HTML and CSS, I learned how different HTML and CSS tags interact with each other and can affect the looks of the site. Also learned how to use many git-commands to help build the repository.
 
 #Table of Contents
 
- - 02-Challenge
- 
-    -Develop
-		
-        - Assets
-				
-            - CSS
-						
-               - style.css
-							 
-            - Images
-						
-               - brand-awareness.png
-							 
-               - cost-management.png
-							 
-               - digital-marketing-meeting.png
-							 
-               - lead-generation.png
-							 
-							 - online-reputation-management.jpg
-							 
-							 - search-engine-optimization.jpg
-							 
-							 -social-media-marketing.jpg
-							 
-        - DS_Store
-			
-        - index.html
-				
-    -DS_Store
-		
- -DS_Store
- 
+   -assets
+      
+      -css
+         -style.css
+
+      -images
+         -brand-awareness.png
+         -CandlerStarkeHoriseonMarketing.png
+         -cost-managment.png
+         -digital-marketing-meeting.png
+         -lead-generation.png
+         -online-reputation-management.jpg
+         -search-engine-optimization.jpg
+         -social-media-marketing.jpg
+
+   -index.html
+
+   -README.md
+
  
  #Usage
  
