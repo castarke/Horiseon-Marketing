@@ -34,7 +34,7 @@ Within this repository you will find the HTML and CSS code to the Horiseon Marke
  
  You can find the link and screenshot to the live site below:
  
- URL:
+ URL: https://castarke.github.io/Horiseon-Marketing/
  
  Screenshot:
  
