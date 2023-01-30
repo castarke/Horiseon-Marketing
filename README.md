@@ -22,10 +22,8 @@ Within this repository you will find the HTML and CSS code to the Horiseon Marke
          -online-reputation-management.jpg
          -search-engine-optimization.jpg
          -social-media-marketing.jpg
-
-   -README
-
-      -README.md
+         
+   -README.md
    
    -index.html
 
